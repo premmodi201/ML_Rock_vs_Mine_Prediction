@@ -8,7 +8,7 @@ Feature Engineering: Extract relevant features from the SONAR records through st
 Model Development: Implement and train a Logistic Regression model the usage of Python, optimizing its performance.
 Model Evaluation: Assess accuracy, precision, consider, and F1 score to ensure dependable predictions.
 
-# Deployment: Prepare the model for real-time predictions, processing incoming SONAR information correctly.
+Deployment: Prepare the model for real-time predictions, processing incoming SONAR information correctly.
 
 ## Methodology
 Data Preprocessing: Clean and normalize the dataset, doing away with beside the point functions and managing lacking information.
